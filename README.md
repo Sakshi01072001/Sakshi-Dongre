@@ -7,7 +7,9 @@
 💞️ I’m looking to collaborate on projects involving ASP.NET MVC, RESTful APIs, and database management.
 
 📫 How to reach me:
+
 Email: sakshidongre295@gmail.com
+
 LinkedIn: linkedin.com/in/sakshi-dongre-996417257
 
 😄 Pronouns: She/Her
